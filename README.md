@@ -8,8 +8,6 @@
 
   - 🔔 Contate-me no e-mail: marcoantoniosilvanunes10@gmail.com;
 
-  - 🙋🏻‍♀️ E você também pode me conhecer melhor acessando meu LinkedIn;
-
 
 <div align="center">
   <a href="https://github.com/Marcoslb1">
