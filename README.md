@@ -32,7 +32,7 @@ Atualmente sou estágiario de sistemas e desenvolvimento em uma multinacional de
   <img align="center" alt="Marco-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
   <img align="center" alt="Marco-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Marco-Css" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Marco-Css" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+  <img align="center" alt="Marco-SQL Server" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
    </div>
 
   
@@ -40,7 +40,7 @@ Atualmente sou estágiario de sistemas e desenvolvimento em uma multinacional de
   <div style="display: inline_block"><br>
  <img align="center" alt="Marco-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
  <img align="center" alt="Marco-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
- <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+ <img align="center" alt="Marco-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     </div>
 
 
