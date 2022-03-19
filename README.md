@@ -2,7 +2,7 @@
 
 ##
 
-  - 💻 Sou estudante e profissional de TI;
+  - 💻 Estudante e profissional de TI;
 
   - 🥇 Aqui compartilho minhas skills e novos aprendizados em programação;
 
