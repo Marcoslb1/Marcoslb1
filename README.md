@@ -2,8 +2,6 @@
 
 ##
 
-  - 💻 Estudante e profissional de TI;
-
   - 🥇 Aqui compartilho minhas skills e novos aprendizados em programação;
 
   - 🔔 Contate-me no e-mail: marcoantoniosilvanunes10@gmail.com;
