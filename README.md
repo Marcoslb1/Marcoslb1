@@ -19,7 +19,7 @@
 
   ### Conhecimentos
 
-C#/VB, .NET core/framework, API restfull, Microserviços (WCF(web service)/ Windows Service), MVC, ORM, DDD, TDD, SQL server, mySql, HTML, CSS, JavaScript, bootstrap, jquery, git, TFS, Azure Devops...
+C#, .NET core/framework, API Restfull, Microserviços (Web Service/ Windows Service), MVC, ORM, SQLServer, mySql, HTML, CSS, JavaScript, jquery, git, TFS, Azure Devops...
 
 
 
